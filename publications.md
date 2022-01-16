@@ -5,7 +5,7 @@ title: Publications
 
 **Preprints and Ongoing Work**
 
-1. Penny, S. G., Smith, T. A., Chen, T.-C., Platt, J. A., Lin, H.-Y., Goodliff,
+1. Penny, S. G., **Smith, T. A.**, Chen, T.-C., Platt, J. A., Lin, H.-Y., Goodliff,
     M., and Abarbanel, H.D.I. Integrating Recurrent Neural Networks with Data
     Assimilation for Scalable Data-Driven State Estimation. In review at Journal of
     Advances in Modeling Earth Systems (JAMES).
