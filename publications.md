@@ -7,8 +7,9 @@ title: Publications
 
 1. Penny, S. G., **Smith, T. A.**, Chen, T.-C., Platt, J. A., Lin, H.-Y., Goodliff,
     M., and Abarbanel, H.D.I. Integrating Recurrent Neural Networks with Data
-    Assimilation for Scalable Data-Driven State Estimation. In review at Journal of
-    Advances in Modeling Earth Systems (JAMES).
+    Assimilation for Scalable Data-Driven State Estimation.
+    *In review at Journal of
+    Advances in Modeling Earth Systems (JAMES).*
 
 4. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
     Xgcm: a python package for analyzing data from general circulation models.
@@ -19,7 +20,8 @@ title: Publications
 6. Kostov, Y., Johnson, H., Marshall, D., Forget, G., Heimbach, P.,
     Holliday, P., Li, F., Lozier, S., Pillar, H., & **Smith, T.**
     Contrasting sources of variability in subtropical and subpolar
-    Atlantic overturning. *Accepted for publication at Nature Geosciences.*
+    Atlantic overturning. *Nature Geosciences.*
+    <https://doi.org/10.1038/s41561-021-00759-4>
 
 5. Nguyen, A. T., Pillar, H., Oca&ntilde;a, V., Bigdeli, A.,
     **Smith, T. A.**, & Heimbach, P. (2021). The Arctic Subpolar
