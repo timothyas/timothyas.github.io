@@ -15,11 +15,21 @@
     </a>
   {% endif %}
 
+<!-- eff bitbucket
   {% if author.bitbucket %}
     <a id="bitbucket-link"
        class="icon" title="Bitbucket Profile" aria-label"Bitbucket Profile"
        href="https://bitbucket.org/{{ author.bitbucket }}">
        <i class="fa fa-bitbucket fa-fw"></i>
+    </a>
+  {% endif %}
+-->
+
+  {% if author.orcid %}
+    <a id="orcid-link"
+       class="icon" title="ORCID Profile" aria-label"ORCID Profile"
+       href="https://orcid.org/{{ author.orcid }}">
+      <i class="ai ai-orcid ai-fw"></i>
     </a>
   {% endif %}
 
@@ -47,13 +57,15 @@
     </a>
   {% endif %}
 
-  {% if author.orcid %}
-    <a id="orcid-link"
-       class="icon" title="ORCID Profile" aria-label"ORCID Profile"
-       href="https://orcid.org/{{ author.orcid }}">
-      <i class="ai ai-orcid ai-fw"></i>
+  {% if author.twitter %}
+    <a id="twitter-link"
+       class="icon" title="Twitter Profile" aria-label"Twitter Profile"
+       href="https://twitter.com/{{ author.twitter }}">
+      <i class="fa fa-twitter fa-fw"></i>
     </a>
   {% endif %}
+
+
 
   <!-- Github feed?
   <a id="subscribe-link"
