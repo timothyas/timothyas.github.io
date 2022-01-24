@@ -5,7 +5,16 @@ title: Publications
 
 **Preprints and Ongoing Work**
 
-1. Penny, S. G., **Smith, T. A.**, Chen, T.-C., Platt, J. A., Lin, H.-Y., Goodliff,
+1. Platt, J. A., Penny, S.G., **Smith, T. A.**, Chen, T.-C., and Abarbanel, H.
+   D. I.  A Systematic Exploration of Reservoir Computing for Forecasting
+   Complex Spatiotemporal Dynamics. *Submitted to Neural Networks.*
+
+2. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
+   'Next Generation' Reservoir Computing: an Empirical Data-Driven Expression of
+   Dynamical Equations in Time-Stepping Form.
+   Preprint: <https://arxiv.org/abs/2201.05193>.
+
+3. Penny, S. G., **Smith, T. A.**, Chen, T.-C., Platt, J. A., Lin, H.-Y., Goodliff,
     M., and Abarbanel, H.D.I. Integrating Recurrent Neural Networks with Data
     Assimilation for Scalable Data-Driven State Estimation.
     *In review at Journal of
