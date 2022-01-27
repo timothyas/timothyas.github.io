@@ -8,6 +8,7 @@ title: Publications
 1. Platt, J. A., Penny, S.G., **Smith, T. A.**, Chen, T.-C., and Abarbanel, H.
    D. I.  A Systematic Exploration of Reservoir Computing for Forecasting
    Complex Spatiotemporal Dynamics. *Submitted to Neural Networks.*
+   Preprint: <https://arxiv.org/abs/2201.08910>.
 
 2. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
    'Next Generation' Reservoir Computing: an Empirical Data-Driven Expression of
