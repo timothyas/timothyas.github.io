@@ -3,4 +3,4 @@ layout: category
 title: Research
 ---
 
-A collection of project(s) I have been working on. More updates coming soon! 
+If you're interested in chatting about any of these topics, please feel free to contact me!

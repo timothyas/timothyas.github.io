@@ -6,23 +6,19 @@ layout: page
   {{ content }}
 {% endunless %}
 
-<ul class="posts-list">
+<ul class="posts-simple">
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
     <li>
-
       {% if post.img %}
-        <span style="padding:10px">
-            <img src="/assets/img/{{ post.img | relative_url }}" 
-              style="width:300px;border:0;padding:20px"
-              align="left"
-            >
-            <h3>
-              <a href="{{ post.url | relative_url }}" >
-                  {{  post.title  }}
-              </a>
-            </h3>
-        </span>
+         <div class="tile">
+           <img src="/assets/img/{{ post.img | relative_url }}" class="post-pic" align="left">
+           <h3>
+             <a href="{{ post.url | relative_url }}" >
+               {{  post.title  }}
+             </a>
+           </h3>
+        </div>
       {% else %}
         <h3>
           <a href="{{ post.url | relative_url }}">

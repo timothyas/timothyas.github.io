@@ -38,6 +38,59 @@ h2.page-title {
   }
 }
 
+.tile {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  align-items: center;
+}
+
+.posts-simple {
+  width: 100%;
+  margin: 0;
+
+  h3 {
+    display: inline;
+    margin-top: 0;
+    margin-bottom: 8%;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-left: 0;
+  }
+
+  li {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+// Mobile View
+.post-pic {
+    width: 150px;
+    border: 0px;
+    padding-right: 10px;
+}
+
+// Desktop View
+@media (min-width: $large-breakpoint) {
+  img.post-pic {
+      width: 300px;
+      border: 0px;
+      padding-right: 10px;
+  }
+}
+
 .posts-list {
   list-style: none;
   padding-left: 0;
