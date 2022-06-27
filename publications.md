@@ -5,21 +5,22 @@ title: Publications
 
 **Preprints and Ongoing Work**
 
-1. Platt, J. A., Penny, S.G., **Smith, T. A.**, Chen, T.-C., and Abarbanel, H.
-   D. I.  A Systematic Exploration of Reservoir Computing for Forecasting
-   Complex Spatiotemporal Dynamics. *Submitted to Neural Networks.*
-   Preprint: <https://arxiv.org/abs/2201.08910>.
-
-2. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
+1. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
    'Next Generation' Reservoir Computing: an Empirical Data-Driven Expression of
    Dynamical Equations in Time-Stepping Form.
    Preprint: <https://arxiv.org/abs/2201.05193>.
 
-3. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
+2. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
     Xgcm: a python package for analyzing data from general circulation models.
     *Manuscript in review at Journal of Open Source Software.*
 
 **Journal Articles**
+
+8. Platt, J. A., Penny, S.G., **Smith, T. A.**, Chen, T.-C., and Abarbanel, H.
+   D. I.  A Systematic Exploration of Reservoir Computing for Forecasting
+   Complex Spatiotemporal Dynamics. *Accepted at Neural Networks.*
+   Preprint: <https://arxiv.org/abs/2201.08910>.
+
 
 7. Penny, S. G., **Smith, T. A.**, Chen, T.-C., Platt, J. A., Lin, H.-Y., Goodliff,
     M., and Abarbanel, H.D.I. (2022) Integrating Recurrent Neural Networks with Data
