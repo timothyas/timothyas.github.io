@@ -16,11 +16,9 @@ title: Publications
 
 **Journal Articles**
 
-8. Platt, J. A., Penny, S.G., **Smith, T. A.**, Chen, T.-C., and Abarbanel, H.
-   D. I.  A Systematic Exploration of Reservoir Computing for Forecasting
-   Complex Spatiotemporal Dynamics. *Accepted at Neural Networks.*
-   Preprint: <https://arxiv.org/abs/2201.08910>.
-
+8. Platt, J. A., Penny, S. G., **Smith, T. A.**, Chen, T.-C., and Abarbanel, H. D. I.
+   (2022). A systematic exploration of reservoir computing for forecasting complex spatiotemporal dynamics.
+   *Neural Networks*, 153, 530–552. <https://doi.org/10.1016/j.neunet.2022.06.025>
 
 7. Penny, S. G., **Smith, T. A.**, Chen, T.-C., Platt, J. A., Lin, H.-Y., Goodliff,
     M., and Abarbanel, H.D.I. (2022) Integrating Recurrent Neural Networks with Data
