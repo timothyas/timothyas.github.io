@@ -5,12 +5,20 @@ title: Publications
 
 **Preprints and Ongoing Work**
 
-1. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
+1. **Smith, T. A.**
+   A Practical Formulation for an Anisotropic
+   and Nonstationary Mat\'ern Class Correlation Operator.
+   *In review at The Quarterly Journal of the Royal
+   Meteorological Society*.
+   Preprint:
+   <https://www.essoar.org/doi/10.1002/essoar.10511974.1>
+
+2. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
    'Next Generation' Reservoir Computing: an Empirical Data-Driven Expression of
    Dynamical Equations in Time-Stepping Form.
    Preprint: <https://arxiv.org/abs/2201.05193>.
 
-2. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
+3. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
     Xgcm: a python package for analyzing data from general circulation models.
     *Manuscript in review at Journal of Open Source Software.*
 
