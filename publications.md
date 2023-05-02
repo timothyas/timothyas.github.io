@@ -5,20 +5,31 @@ title: Publications
 
 **Preprints and Ongoing Work**
 
-1. **Smith, T. A.**
+1. **Smith, T. A.**, Penny, S. G., Platt, J. A., & Chen, T.-C. (2023).
+   Temporal Subsampling Diminishes Small Spatial Scales in
+   Recurrent Neural Network Emulators of Geophysical Turbulence.
+   *Submitted to JAMES*. Preprint:
+   <https://doi.org/10.48550/arXiv.2305.00100>
+
+2. Platt, J. A., Penny, S. G., **Smith, T. A.**, Chen,
+   T.-C., & Abarbanel, H. D. I. (2023). Constraining Chaos:
+   Enforcing dynamical invariants in the training of recurrent
+   neural networks. arXiv.
+   <https://doi.org/10.48550/arXiv.2304.12865>
+
+3. **Smith, T. A.**
    A Practical Formulation for an Anisotropic
    and Nonstationary Mat\'ern Class Correlation Operator.
-   *In review at The Quarterly Journal of the Royal
-   Meteorological Society*.
+   (2022).
    Preprint:
    <https://www.essoar.org/doi/10.1002/essoar.10511974.1>
 
-2. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
+4. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
    'Next Generation' Reservoir Computing: an Empirical Data-Driven Expression of
    Dynamical Equations in Time-Stepping Form.
-   Preprint: <https://arxiv.org/abs/2201.05193>.
+   Preprint: <https://arxiv.org/abs/2201.05193>
 
-3. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
+5. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
     Xgcm: a python package for analyzing data from general circulation models.
     *Manuscript in review at Journal of Open Source Software.*
 
