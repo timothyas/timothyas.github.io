@@ -11,12 +11,6 @@ title: Publications
    *Submitted to JAMES*. Preprint:
    <https://doi.org/10.48550/arXiv.2305.00100>
 
-2. Platt, J. A., Penny, S. G., **Smith, T. A.**, Chen,
-   T.-C., & Abarbanel, H. D. I. (2023). Constraining Chaos:
-   Enforcing dynamical invariants in the training of recurrent
-   neural networks. arXiv.
-   <https://doi.org/10.48550/arXiv.2304.12865>
-
 3. **Smith, T. A.**
    A Practical Formulation for an Anisotropic
    and Nonstationary Mat\'ern Class Correlation Operator.
@@ -34,6 +28,12 @@ title: Publications
     *Manuscript in review at Journal of Open Source Software.*
 
 **Journal Articles**
+
+9. Platt, J. A., Penny, S. G., **Smith, T. A.**, Chen, T.-C., & Abarbanel, H. D. I. (2023).
+   Constraining chaos: Enforcing dynamical invariants in the training of reservoir computers.
+   *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 33(10), 103107.
+   https://doi.org/10.1063/5.0156999
+
 
 8. Platt, J. A., Penny, S. G., **Smith, T. A.**, Chen, T.-C., and Abarbanel, H. D. I.
    (2022). A systematic exploration of reservoir computing for forecasting complex spatiotemporal dynamics.
