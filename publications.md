@@ -32,7 +32,7 @@ title: Publications
 9. Platt, J. A., Penny, S. G., **Smith, T. A.**, Chen, T.-C., & Abarbanel, H. D. I. (2023).
    Constraining chaos: Enforcing dynamical invariants in the training of reservoir computers.
    *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 33(10), 103107.
-   https://doi.org/10.1063/5.0156999
+   <https://doi.org/10.1063/5.0156999>
 
 
 8. Platt, J. A., Penny, S. G., **Smith, T. A.**, Chen, T.-C., and Abarbanel, H. D. I.
