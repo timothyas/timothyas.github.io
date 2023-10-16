@@ -11,12 +11,18 @@ title: Publications
    *Submitted to JAMES*. Preprint:
    <https://doi.org/10.48550/arXiv.2305.00100>
 
-3. **Smith, T. A.**
+2. **Smith, T. A.**
    A Practical Formulation for an Anisotropic
    and Nonstationary Mat\'ern Class Correlation Operator.
    (2022).
    Preprint:
    <https://www.essoar.org/doi/10.1002/essoar.10511974.1>
+
+3. **Smith, T. A.** (2021). Flow aware parameterizations
+   invigorate the simulated ocean circulation under the Pine Island
+   ice shelf, West Antarctica.
+   Preprint:
+   <https://essopenarchive.org/doi/full/10.1002/essoar.10507839.2>
 
 4. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
    'Next Generation' Reservoir Computing: an Empirical Data-Driven Expression of
@@ -28,6 +34,13 @@ title: Publications
     *Manuscript in review at Journal of Open Source Software.*
 
 **Journal Articles**
+
+10. Halpern, D., Le, M. K., **Smith, T. A.**, & Heimbach, P. (2023).
+    Comparison of ADCP and ECCOv4r4 Currents in the Pacific Equatorial
+    Undercurrent.
+    *Journal of Atmospheric and Oceanic Technology*, 1(aop).
+    <https://doi.org/10.1175/JTECH-D-23-0013.1>
+
 
 9. Platt, J. A., Penny, S. G., **Smith, T. A.**, Chen, T.-C., & Abarbanel, H. D. I. (2023).
    Constraining chaos: Enforcing dynamical invariants in the training of reservoir computers.
