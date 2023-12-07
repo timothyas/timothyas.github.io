@@ -5,12 +5,6 @@ title: Publications
 
 **Preprints and Ongoing Work**
 
-1. **Smith, T. A.**, Penny, S. G., Platt, J. A., & Chen, T.-C. (2023).
-   Temporal Subsampling Diminishes Small Spatial Scales in
-   Recurrent Neural Network Emulators of Geophysical Turbulence.
-   *Submitted to JAMES*. Preprint:
-   <https://doi.org/10.48550/arXiv.2305.00100>
-
 2. **Smith, T. A.**
    A Practical Formulation for an Anisotropic
    and Nonstationary Mat\'ern Class Correlation Operator.
@@ -35,10 +29,18 @@ title: Publications
 
 **Journal Articles**
 
+11. **Smith, T. A.**, Penny, S. G., Platt, J. A., & Chen, T.-C. (2023).
+    Temporal Subsampling Diminishes Small Spatial Scales in
+    Recurrent Neural Network Emulators of Geophysical Turbulence.
+    *Journal of Advances in Modeling Earth Systems*, 15(12),
+    e2023MS003792. <https://doi.org/10.1029/2023MS003792>
+
+
 10. Halpern, D., Le, M. K., **Smith, T. A.**, & Heimbach, P. (2023).
     Comparison of ADCP and ECCOv4r4 Currents in the Pacific Equatorial
     Undercurrent.
-    *Journal of Atmospheric and Oceanic Technology*, 1(aop).
+    *Journal of Atmospheric and Oceanic Technology*,
+    40(12), 1369-1381.
     <https://doi.org/10.1175/JTECH-D-23-0013.1>
 
 
