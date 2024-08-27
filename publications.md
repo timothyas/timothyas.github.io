@@ -10,7 +10,7 @@ title: Publications
    and Nonstationary Mat\'ern Class Correlation Operator.
    (2022).
    Preprint:
-   <https://www.essoar.org/doi/10.1002/essoar.10511974.1>
+   <https://essopenarchive.org/doi/full/10.1002/essoar.10511974.1>
 
 3. **Smith, T. A.** (2021). Flow aware parameterizations
    invigorate the simulated ocean circulation under the Pine Island
