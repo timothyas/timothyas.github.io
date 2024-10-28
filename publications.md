@@ -29,6 +29,11 @@ title: Publications
 
 **Journal Articles**
 
+12. Worsnop, R. P., Scheuerer, M., Hamill, T. M., **Smith, T. A.**, &
+    Schlör, J. (2024). RUFCO: a deep-learning framework to post-process
+    subseasonal precipitation accumulation forecasts. *Artificial
+    Intelligence for the Earth Systems*. <https://doi.org/10.1175/AIES-D-24-0020.1>
+
 11. **Smith, T. A.**, Penny, S. G., Platt, J. A., & Chen, T.-C. (2023).
     Temporal Subsampling Diminishes Small Spatial Scales in
     Recurrent Neural Network Emulators of Geophysical Turbulence.
