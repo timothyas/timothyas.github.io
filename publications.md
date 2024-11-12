@@ -3,31 +3,13 @@ layout: category
 title: Publications
 ---
 
-**Preprints and Ongoing Work**
 
-2. **Smith, T. A.**
-   A Practical Formulation for an Anisotropic
-   and Nonstationary Mat\'ern Class Correlation Operator.
-   (2022).
-   Preprint:
-   <https://essopenarchive.org/doi/full/10.1002/essoar.10511974.1>
+**Peer Reviewed Journal Articles**
 
-3. **Smith, T. A.** (2021). Flow aware parameterizations
-   invigorate the simulated ocean circulation under the Pine Island
-   ice shelf, West Antarctica.
-   Preprint:
-   <https://essopenarchive.org/doi/full/10.1002/essoar.10507839.2>
-
-4. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
-   'Next Generation' Reservoir Computing: an Empirical Data-Driven Expression of
-   Dynamical Equations in Time-Stepping Form.
-   Preprint: <https://arxiv.org/abs/2201.05193>
-
-5. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
-    Xgcm: a python package for analyzing data from general circulation models.
-    *Manuscript in review at Journal of Open Source Software.*
-
-**Journal Articles**
+13. **Smith, T. A.**, Penny, S. G., Platt, J. A., & Chen, T.-C.
+    (2024). xesn: Echo state networks powered by Xarray and
+    Dask. *Journal of Open Source Software*, 9(103), 7286.
+    <https://doi.org/10.21105/joss.07286>
 
 12. Worsnop, R. P., Scheuerer, M., Hamill, T. M., **Smith, T. A.**, &
     Schlör, J. (2024). RUFCO: a deep-learning framework to post-process
@@ -107,3 +89,27 @@ title: Publications
     Comparison of actinide production in traveling wave and pressurized water
     reactors. In Proceedings of GLOBAL 2013: International Nuclear Fuel
     Cycle Conference-Nuclear Energy at a Crossroads.
+
+**Preprints**
+
+2. **Smith, T. A.**
+   A Practical Formulation for an Anisotropic
+   and Nonstationary Mat\'ern Class Correlation Operator.
+   (2022).
+   Preprint:
+   <https://essopenarchive.org/doi/full/10.1002/essoar.10511974.1>
+
+3. **Smith, T. A.** (2021). Flow aware parameterizations
+   invigorate the simulated ocean circulation under the Pine Island
+   ice shelf, West Antarctica.
+   Preprint:
+   <https://essopenarchive.org/doi/full/10.1002/essoar.10507839.2>
+
+4. Chen, T.-C., Penny, S. G., **Smith, T. A.**, and Platt, J. A.
+   'Next Generation' Reservoir Computing: an Empirical Data-Driven Expression of
+   Dynamical Equations in Time-Stepping Form.
+   Preprint: <https://arxiv.org/abs/2201.05193>
+
+5. Abernathey, R., Busecke, J., Banihirwe, A., Zhang, C., & **Smith, T.**
+    Xgcm: a python package for analyzing data from general circulation models.
+    *Manuscript in review at Journal of Open Source Software.*
