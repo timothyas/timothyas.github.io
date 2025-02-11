@@ -282,15 +282,11 @@ body {
 }
 
 #sidebar-icon-links {
-  flex-flow: row wrap;
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   margin-top: 1rem;
   max-width: 100%;
-
-  @media (min-width: $large-breakpoint) {
-    justify-content: flex-start;
-    margin-left: -0.25em;
-  }
 }
 
 #sidebar nav > * {
