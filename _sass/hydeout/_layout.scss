@@ -285,7 +285,7 @@ body {
   flex-flow: row wrap;
   justify-content: center;
   margin-top: 1rem;
-  max-width: 90%;
+  max-width: 100%;
 
   @media (min-width: $large-breakpoint) {
     justify-content: flex-start;
