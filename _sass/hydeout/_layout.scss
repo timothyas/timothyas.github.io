@@ -284,15 +284,11 @@ body {
 #sidebar-icon-links {
   display: flex;
   flex-wrap: wrap;
-  justify-content: left;
+  justify-content: center;
   margin-top: 1rem;
-  margin-right: 40%;
-  margin-left: -0.25em;
+  margin-right: 20%;
+  margin-left: 20%;
   max-width: 100%;
-  @media (min-width: $large-breakpoint) {
-    justify-content: flex-start;
-    margin-left: -0.25em;
-  }
 }
 
 #sidebar nav > * {
