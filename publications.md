@@ -14,7 +14,7 @@ title: Publications
     (2024).
     Assimilating Observed Surface Pressure into ML Weather Prediction
     Models.
-    *Submitted to: Geophysical Research Letters*.
+    *In press at: Geophysical Research Letters*.
     **Preprint:** <https://arxiv.org/abs/2412.18016>.
 
 18. Heimbach, P., O'Donncha, F., \textbf{Smith, T. A.},
@@ -24,7 +24,7 @@ title: Publications
     *In press at: State of the Planet}*.
     **Preprint:**
     [here](https://editor.copernicus.org/index.php?_mdl=msover_md&_jrl=817&_lcm=oc73lcm74a&_acm=get_manuscript_file&_ms=123171&id=2496583&salt=4308085671004916739).
-    <https://doi.org/10.5194/sp-2024-18}>
+    <https://doi.org/10.5194/sp-2024-18>
 
 17. **Smith, T. A.**, Penny, S. G., Platt, J. A., & Chen, T.-C.
     (2024). xesn: Echo state networks powered by Xarray and
