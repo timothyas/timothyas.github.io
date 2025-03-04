@@ -28,6 +28,6 @@ My slides for this talk are shown below - please feel free to reach out if you w
 <object data="/assets/docs/ufs2arco_noaa_ai_workshop.pdf#toolbar=1&scrollbar=1&navpanes=0"
     type="application/pdf" width="100%" height="100%">
   <p> It appears you don't have a pdf plugin for this browser.
-  You can <a href="/assets/docs/tsmith_od02_poster_osm2022.pdf"> click here to
+  You can <a href="/assets/docs/ufs2arco_noaa_ai_workshop.pdf"> click here to
   download the pdf file.</a></p>
 </object>
