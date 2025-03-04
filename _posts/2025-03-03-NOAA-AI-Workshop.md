@@ -20,8 +20,9 @@ Recently, I’ve leveraged connections between the dataloaders that are used to 
 machine learning models during training in order to accelerate these
 transformation pipelines.
 Initial results are promising.
+In a test case on Perlmutter,
 I've been able to move 1 year of NOAA's GEFS archive (or at least 2.6 TB of it)
-using just 8 nodes CPU nodes in 5 minutes.
+using just 8 CPU nodes in 5 minutes.
 
 My slides for this talk are shown below - please feel free to reach out if you want to talk about this!
 
