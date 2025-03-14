@@ -3,19 +3,18 @@ layout: category
 title: Publications
 ---
 
+20. Slivinski, L. C., Whitaker, J. S., Frolov, S., **Smith, T. A.**,
+    & Agarwal, N.
+    (2025).
+    Assimilating Observed Surface Pressure into ML Weather Prediction
+    Models.
+    *Geophysical Research Letters*, 52, e2024GL114396.
+    <https://doi.org/10.1029/2024GL114396>
 
-20. Chen, T.-C., Penny, S. G., **Smith, T. A.**, & Platt, J. A.
+19. Chen, T.-C., Penny, S. G., **Smith, T. A.**, & Platt, J. A.
     (2025). Machine Learned Empirical Numerical Integrator from
     Simulated Data.
     *In press at: Artificial Intelligence for the Earth Systems*.
-
-19. Slivinski, L. C., Whitaker, J. S., Frolov, S., **Smith, T. A.**,
-    & Agarwal, N.
-    (2024).
-    Assimilating Observed Surface Pressure into ML Weather Prediction
-    Models.
-    *In press at: Geophysical Research Letters*.
-    **Preprint:** <https://arxiv.org/abs/2412.18016>.
 
 18. Heimbach, P., O'Donncha, F., \textbf{Smith, T. A.},
     Garcia-Valdecasas, J. M., Arnaud, A., & Wan, L.
