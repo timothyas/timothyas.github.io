@@ -16,11 +16,11 @@ title: Publications
     Simulated Data.
     *In press at: Artificial Intelligence for the Earth Systems*.
 
-18. Heimbach, P., O'Donncha, F., \textbf{Smith, T. A.},
+18. Heimbach, P., O'Donncha, F., **Smith, T. A.**,
     Garcia-Valdecasas, J. M., Arnaud, A., & Wan, L.
     (2024).
     Crafting the Future: Machine Learning for Ocean Forecasting.
-    *In press at: State of the Planet}*.
+    *In press at: State of the Planet*.
     **Preprint:**
     [here](https://editor.copernicus.org/index.php?_mdl=msover_md&_jrl=817&_lcm=oc73lcm74a&_acm=get_manuscript_file&_ms=123171&id=2496583&salt=4308085671004916739).
     <https://doi.org/10.5194/sp-2024-18>
