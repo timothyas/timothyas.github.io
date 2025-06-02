@@ -3,28 +3,26 @@ layout: category
 title: Publications
 ---
 
+20. Heimbach, P., O'Donncha, F., **Smith, T. A.**,
+    Garcia-Valdecasas, J. M., Arnaud, A., & Wan, L.
+    (2024).
+    Crafting the Future: Machine Learning for Ocean Forecasting.
+    *State of the Planet, 5-opsr*, 22.
+    <https://doi.org/10.5194/sp-5-opsr-22-2025>.
+
 19. Chen, T.-C., Penny, S. G., **Smith, T. A.**, & Platt, J. A.
     (2025). Machine Learned Empirical Numerical Integrator from
     Simulated Data.
     *Artificial Intelligence for the Earth Systems*,
     4, e230088, <https://doi.org/10.1175/AIES-D-23-0088.1>.
 
-19. Slivinski, L. C., Whitaker, J. S., Frolov, S., **Smith, T. A.**,
+18. Slivinski, L. C., Whitaker, J. S., Frolov, S., **Smith, T. A.**,
     & Agarwal, N.
     (2025).
     Assimilating Observed Surface Pressure into ML Weather Prediction
     Models.
     *Geophysical Research Letters*, 52, e2024GL114396.
     <https://doi.org/10.1029/2024GL114396>.
-
-18. Heimbach, P., O'Donncha, F., **Smith, T. A.**,
-    Garcia-Valdecasas, J. M., Arnaud, A., & Wan, L.
-    (2024).
-    Crafting the Future: Machine Learning for Ocean Forecasting.
-    *In press at: State of the Planet*.
-    **Preprint:**
-    [here](https://editor.copernicus.org/index.php?_mdl=msover_md&_jrl=817&_lcm=oc73lcm74a&_acm=get_manuscript_file&_ms=123171&id=2496583&salt=4308085671004916739).
-    <https://doi.org/10.5194/sp-2024-18>
 
 17. **Smith, T. A.**, Penny, S. G., Platt, J. A., & Chen, T.-C.
     (2024). xesn: Echo state networks powered by Xarray and
