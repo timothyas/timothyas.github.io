@@ -3,6 +3,13 @@ layout: category
 title: Publications
 ---
 
+21. Abdi, D., Jankov, I., Madden, P., Vargas, V.,
+    **Smith, T. A.**, Frolov, S., Flora, M., & Potvin, C. (2025).
+    HRRRCast: A data-driven emulator for regional weather forecasting at
+    convection allowing scales.
+    *Submitted to Artificial Intelligence for the Earth Systems*.
+    **Preprint**: <https://doi.org/10.48550/arXiv.2507.05658>.
+
 20. Heimbach, P., O'Donncha, F., **Smith, T. A.**,
     Garcia-Valdecasas, J. M., Arnaud, A., & Wan, L.
     (2024).
