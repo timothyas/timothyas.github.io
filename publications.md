@@ -7,8 +7,8 @@ title: Publications
     **Smith, T. A.**, Frolov, S., Flora, M., & Potvin, C. (2025).
     HRRRCast: A data-driven emulator for regional weather forecasting at
     convection allowing scales.
-    *Submitted to Artificial Intelligence for the Earth Systems*.
-    **Preprint**: <https://doi.org/10.48550/arXiv.2507.05658>.
+    *Artificial Intelligence for the Earth Systems*, 5, 250061.
+    <https://doi.org/10.1175/AIES-D-25-0061.1>.
 
 20. Heimbach, P., O'Donncha, F., **Smith, T. A.**,
     Garcia-Valdecasas, J. M., Arnaud, A., & Wan, L.
