@@ -3,6 +3,11 @@ layout: category
 title: Publications
 ---
 
+22. **Smith, T. A.**, Pope M., Frolov, S., Basarab, B.,
+    Abdi, D., Madden, P., & Jankov, I. (2026).
+    Bridging Short- and Medium-Range Weather Forecasting with Machine Learning.
+    **Preprint:** *arXiv*. <https://arxiv.org/abs/2608.26822v1>.
+
 21. Abdi, D., Jankov, I., Madden, P., Vargas, V.,
     **Smith, T. A.**, Frolov, S., Flora, M., & Potvin, C. (2025).
     HRRRCast: A data-driven emulator for regional weather forecasting at
